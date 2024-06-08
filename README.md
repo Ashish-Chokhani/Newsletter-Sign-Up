@@ -33,11 +33,11 @@ Newsletter-Sign-Up
 ## Installation
 1. Clone the repository:
 ```bash
-git clone https://github.com/Ashish-Chokhani/newsletter-sign-up.git
+git clone https://github.com/Ashish-Chokhani/Newsletter-Sign-Up.git
 ```
 2. Navigate to the project directory:
 ```bash
-cd newsletter-sign-up
+cd Newsletter-Sign-Up
 ```
 
 3. Install dependencies:
