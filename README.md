@@ -2,33 +2,14 @@
 
 This is a simple newsletter sign-up application built with Node.js and Express. It allows users to sign up for a newsletter by providing their first name, last name, and email address. The application then sends this data to Mailchimp for managing the mailing list.
 
-## Directory Structure
+## Table of Contents
 
-```bash
-Newsletter-Sign-Up
-│   .DS_Store
-│   .gitignore
-│   app.js
-│   date.js
-│   failure.html
-│   package-lock.json
-│   package.json
-│   signup.html
-│   success.html
-│
-├───public
-│   ├───css
-│   │       styles.css
-│   │
-│   └───images
-│           application.png
-│
-└───views
-    ├───about.ejs
-    ├───footer.ejs
-    ├───header.ejs
-    └───list.ejs
-```
+- [Installation](#installation)
+- [Usage](#usage)
+- [Directory Structure](#directory-structure)
+- [Files](#files)
+- [Contribution](#contribution)
+
 
 ## Installation
 1. Clone the repository:
@@ -71,6 +52,35 @@ node app.js
 - Click the "Sign in" button.
 - If the sign-up is successful, you will be redirected to the success page.
 - If there is an error, you will be redirected to the failure page where you can try again.
+
+
+## Directory Structure
+
+```bash
+Newsletter-Sign-Up
+│   .DS_Store
+│   .gitignore
+│   app.js
+│   date.js
+│   failure.html
+│   package-lock.json
+│   package.json
+│   signup.html
+│   success.html
+│
+├───public
+│   ├───css
+│   │       styles.css
+│   │
+│   └───images
+│           application.png
+│
+└───views
+    ├───about.ejs
+    ├───footer.ejs
+    ├───header.ejs
+    └───list.ejs
+```
 
 ## Files
 **app.js**
