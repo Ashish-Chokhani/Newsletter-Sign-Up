@@ -98,3 +98,6 @@ This file contains the HTML for the success page which is shown when the sign-up
 **public/css/styles.css**
 This file contains the custom styles for the sign-up form.
 
+## Contribution
+We welcome contributions! Feel free to fork the repository, make changes, and submit a pull request.
+
